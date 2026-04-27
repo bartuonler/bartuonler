@@ -29,6 +29,26 @@
 </p>
 
 
+### Odoo Projects & Modules
+
+I develop custom Odoo modules and business solutions:
+
+**Available for Collaboration:**
+- Custom ERP modules development
+- Business process automation
+- Integration with third-party systems
+- Performance optimization
+
+**Project Showcase Strategy:**
+- Demo repositories with sanitized data
+- Feature-focused modules (no sensitive business logic)
+- Community-contributed modules
+- Proof-of-concept implementations
+
+**Note:** Production modules and client-specific implementations are available through private repositories upon request.
+
+---
+
 ### Connect With Me
 
 <p align="left">
