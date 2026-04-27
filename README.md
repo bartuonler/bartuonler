@@ -24,7 +24,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,php,lua,python,java,cpp,go,rust,swift,kotlin,dart,git,github,vscode,linux,docker,aws,azure,firebase,mongodb,mysql,postgresql,redis,nginx,webpack,babel,eslint,prettier,tailwind,bootstrap,sass,graphql,apollo,express,koa,nestjs,laravel,symfony,django,flask,spring,angular,vue,svelte,nuxt,gatsby,remix,astro,vercel,netlify,heroku,digitalocean,kubernetes,terraform,ansible,jenkins,githubactions,gitlabci,bitbucket,jira,slack,notion,figma,photoshop,illustrator" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,php,python,java,git,github,vscode,linux,docker,aws,mongodb,mysql,postgresql,nginx,tailwind,graphql,express,nestjs,laravel,django,angular,vue,vercel,netlify" />
   </a>
 </p>
 
@@ -33,15 +33,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=batuonler&show_icons=true&theme=radical" alt="batuonler's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bartuonler&show_icons=true&theme=radical" alt="bartuonler's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=batuonler&theme=radical" alt="batuonler's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bartuonler&theme=radical" alt="bartuonler's GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batuonler&layout=compact&theme=radical" alt="batuonler's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bartuonler&layout=compact&theme=radical" alt="bartuonler's top languages" />
 </p>
 
 ---
@@ -49,7 +49,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=batuonler&theme=radical&no-frame=true&no-bg=true" alt="batuonler's GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bartuonler&theme=radical&no-frame=true&no-bg=true" alt="bartuonler's GitHub trophies" />
 </p>
 
 ---
@@ -57,7 +57,7 @@
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=batuonler&theme=radical&hide_border=true" alt="batuonler's activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bartuonler&theme=radical&hide_border=true" alt="bartuonler's activity graph" />
 </p>
 
 ---
@@ -68,14 +68,8 @@
   <a href="https://discord.bcdevs.net/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord Server" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/batuonler" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="batuonler" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/batuonler" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="batuonler" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/batuonler" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="batuonler" height="30" width="40" />
+  <a href="https://linkedin.com/in/bartu-önler-73a603382" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
   </a>
 </p>
 
@@ -86,15 +80,6 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
----
-
-### 🎵 Spotify Playing
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
-</p>
-
----
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798cc3b/images/footer.svg" width="100%">
