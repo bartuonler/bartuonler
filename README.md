@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bartu Önler</h1>
-<h3 align="center">A passionate Full Stack Developer from Turkey</h3>
+<h3 align="center">A passionate Backend Developer & System Architect from Turkey</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=batuonler&label=Profile%20views&color=0e75b6&style=flat" alt="batuonler" />
@@ -9,14 +9,14 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on **Web Development Projects**
-- 🌱 I'm currently learning **Advanced React Patterns & Cloud Architecture**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 🤝 I'm looking for help with **DevOps & CI/CD**
-- 💬 Ask me about **JavaScript, React, Node.js**
+- 🔭 I'm currently working on **Backend Systems & API Development**
+- 🌱 I'm currently learning **Microservices & Cloud Architecture**
+- 👯 I'm looking to collaborate on **Open Source Backend Projects**
+- 🤝 I'm looking for help with **DevOps & System Design**
+- 💬 Ask me about **Node.js, Python, Databases, Microservices**
 - 📫 How to reach me: **Join my Discord server!**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I can code in 16+ programming languages!**
+- ⚡ Fun fact: **I love building scalable backend systems!**
 
 ---
 
@@ -24,7 +24,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,php,python,java,git,github,vscode,linux,docker,aws,mongodb,mysql,postgresql,nginx,tailwind,graphql,express,nestjs,laravel,django,angular,vue,vercel,netlify" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,java,go,php,js,ts,git,github,vscode,linux,docker,aws,mongodb,mysql,postgresql,redis,nginx,kafka,rabbitmq,graphql,express,nestjs,django,spring,laravel,kubernetes,terraform,postman" />
   </a>
 </p>
 
