@@ -28,39 +28,6 @@
   </a>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bartuonler&show_icons=true&theme=radical" alt="bartuonler's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bartuonler&theme=radical" alt="bartuonler's GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bartuonler&layout=compact&theme=radical" alt="bartuonler's top languages" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bartuonler&theme=radical&no-frame=true&no-bg=true" alt="bartuonler's GitHub trophies" />
-</p>
-
----
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bartuonler&theme=radical&hide_border=true" alt="bartuonler's activity graph" />
-</p>
-
----
 
 ### 🤝 Connect With Me
 
