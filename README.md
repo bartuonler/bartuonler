@@ -62,6 +62,3 @@ I develop custom Odoo modules and business solutions:
 
 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798cc3b/images/footer.svg" width="100%">
-</div>
