@@ -24,30 +24,10 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,java,go,php,js,ts,git,github,vscode,linux,docker,aws,mongodb,mysql,postgresql,redis,nginx,kafka,rabbitmq,graphql,express,nestjs,django,spring,laravel,kubernetes,terraform,postman" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,java,go,php,js,ts,git,github,vscode,linux,docker,aws,mongodb,mysql,postgresql,redis,nginx,kafka,rabbitmq,graphql,express,nestjs,django,spring,laravel,kubernetes,terraform,postman,odoo" />
   </a>
 </p>
 
-
-### Odoo Projects & Modules
-
-I develop custom Odoo modules and business solutions:
-
-**Available for Collaboration:**
-- Custom ERP modules development
-- Business process automation
-- Integration with third-party systems
-- Performance optimization
-
-**Project Showcase Strategy:**
-- Demo repositories with sanitized data
-- Feature-focused modules (no sensitive business logic)
-- Community-contributed modules
-- Proof-of-concept implementations
-
-**Note:** Production modules and client-specific implementations are available through private repositories upon request.
-
----
 
 ### Connect With Me
 
