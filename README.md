@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Backend Developer & System Architect from Turkey</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=batuonler&label=Profile%20views&color=0e75b6&style=flat&count=950" alt="batuonler" />
+  <img src="https://img.shields.io/badge/Profile%20views-950+-blue?style=flat-square" alt="Profile views" />
 </p>
 
 ---
