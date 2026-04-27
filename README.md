@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bartu Önler</h1>
+<h1 align="center">Hi, I'm Bartu Önler</h1>
 <h3 align="center">A passionate Backend Developer & System Architect from Turkey</h3>
 
 <p align="center">
@@ -7,20 +7,20 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🔭 I'm currently working on **Backend Systems & API Development**
-- 🌱 I'm currently learning **Microservices & Cloud Architecture**
-- 👯 I'm looking to collaborate on **Open Source Backend Projects**
-- 🤝 I'm looking for help with **DevOps & System Design**
-- 💬 Ask me about **Node.js, Python, Databases, Microservices**
-- 📫 How to reach me: **Join my Discord server!**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I love building scalable backend systems!**
+- I'm currently working on **Backend Systems & API Development**
+- I'm currently learning **Microservices & Cloud Architecture**
+- I'm looking to collaborate on **Open Source Backend Projects**
+- I'm looking for help with **DevOps & System Design**
+- Ask me about **Node.js, Python, Databases, Microservices**
+- How to reach me: **Join my Discord server!**
+- Pronouns: **He/Him**
+- Fun fact: **I love building scalable backend systems!**
 
 ---
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -29,7 +29,7 @@
 </p>
 
 
-### 🤝 Connect With Me
+### Connect With Me
 
 <p align="left">
   <a href="https://discord.bcdevs.net/" target="blank">
